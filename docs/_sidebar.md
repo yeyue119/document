@@ -1,4 +1,4 @@
-- 前端环境配置
+- [前端环境配置](environment/readme)
   - [Node](environment/node)
   - [Windows Terminal](environment/terminal)
   - [Visual Studio Code](environment/vscode)
