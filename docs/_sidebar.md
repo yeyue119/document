@@ -6,6 +6,12 @@
   - [Git](environment/git)
   - [Yarn](environment/yarn)
 
+- [前端开发相关](development/readme)
+
+  - [代码格式化](development/code-format)
+  - [代码提交规范](development/git-commit)
+
 - [项目管理相关](pm/readme)
+
   - [周报](pm/weekly-report)
   - [周会](pm/weekly-meeting)
