@@ -8,14 +8,20 @@ yarn help
 
 ```shell
 yarn init
+yarn init -y
 ```
 
 ### 添加依赖
 
 ```shell
+本地
 yarn add [package]
 yarn add [package]@[version]
 yarn add [package]@[tag]
+
+全局
+yarn global add [package]
+
 ```
 
 ### 添加依赖到不同的依赖项类别中
@@ -48,8 +54,26 @@ yarn
 yarn install
 ```
 
-### 查看全局安装依赖
+### 查看安装依赖
 
 ```shell
+本地
+yarn list
+
+全局
 yarn global list
+```
+
+### 执行脚本命令
+
+```shell
+yarn run [command]
+```
+
+### 显示包信息
+
+```shell
+yarn info [package]
+yarn info [package] --json
+yarn info [package] readme
 ```
