@@ -15,3 +15,7 @@
 
   - [周报](pm/weekly-report)
   - [周会](pm/weekly-meeting)
+
+- [weex](weex/readme)
+
+  - [navigator](weex/navigator)
