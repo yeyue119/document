@@ -16,6 +16,8 @@
   - [周报](pm/weekly-report)
   - [周会](pm/weekly-meeting)
 
-- [weex](weex/readme)
+- [weex文档](weex/readme)
 
   - [navigator](weex/navigator)
+
+- [项目开发流程](project/readme)
